@@ -1,0 +1,23 @@
+{
+  "name": "scorpion",
+  "version": "1.0.0",
+  "description": "scorpion producciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaborches/scorpion.git"
+  },
+  "author": "luca borches",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaborches/scorpion/issues"
+  },
+  "homepage": "https://github.com/lucaborches/scorpion#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0",
+    "nodemon": "^2.0.6"
+  }
+}
